@@ -1,0 +1,42 @@
+header{
+    background-color: black;
+    align-items: center;
+    
+}
+
+nav{
+   
+   display: flex;
+   
+   }
+
+.nav_link{
+    color: #fff;
+}
+.nav_list{
+   
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+    
+.menu{
+    display: flex; 
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+button{
+    color: black;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
